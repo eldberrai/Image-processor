@@ -1,2 +1,2 @@
 # Image-processor
-C++ code for .BMP filters
+C++ code for applying .BMP filters
